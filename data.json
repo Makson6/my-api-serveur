@@ -115,27 +115,6 @@
           "action4": ""
         }
       }
-    },
-    {
-      "id": "061",
-      "logo": "/src/assets/images/Profile-Photo.svg",
-      "content": {
-        "body": {
-          "title": {
-            "author": "Bradlay Ortiz",
-            "userName": "bradley_",
-            "details3": "now"
-          },
-          "text": "kkk",
-          "image": ""
-        },
-        "actions": {
-          "action1": 0,
-          "action2": 0,
-          "action3": 0,
-          "action4": ""
-        }
-      }
     }
   ]
 }
